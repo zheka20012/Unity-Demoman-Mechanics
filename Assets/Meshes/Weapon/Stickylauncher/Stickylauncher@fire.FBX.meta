@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 25fd9e2e7448f59439c4bfa827faef16
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone02
+    100004: Bone03
+    100006: Bone04
+    100008: Bone05
+    100010: Bone06
+    100012: Bone07
+    100014: Bone08
+    100016: Bone09
+    100018: Bone10
+    100020: Brat
+    100022: Brat01
+    100024: Bratul_de_sus
+    100026: Bratul_de_sus01
+    100028: Degetul_aratator
+    100030: Degetul_aratator01
+    100032: Degetul_aratator_04
+    100034: Degetul_aratator_05
+    100036: Degetul_aratator_2
+    100038: Degetul_aratator_3
+    100040: Degetul_inelar
+    100042: Degetul_inelar01
+    100044: Degetul_inelar_04
+    100046: Degetul_inelar_05
+    100048: Degetul_inelar_2
+    100050: Degetul_inelar_3
+    100052: Degetul_mare
+    100054: Degetul_mare01
+    100056: Degetul_mare_04
+    100058: Degetul_mare_05
+    100060: Degetul_mare_2
+    100062: Degetul_mare_3
+    100064: Degetul_mic
+    100066: Degetul_mic01
+    100068: Degetul_mic_04
+    100070: Degetul_mic_05
+    100072: Degetul_mic_2
+    100074: Degetul_mic_3
+    100076: Degetul_mijlociu
+    100078: Degetul_mijlociu01
+    100080: Degetul_mijlociu_04
+    100082: Degetul_mijlociu_05
+    100084: Degetul_mijlociu_2
+    100086: Degetul_mijlociu_3
+    100088: Gun
+    100090: Gun_bone
+    100092: IK Chain01_stanga
+    100094: IK Chain02_drapta
+    100096: Palma
+    100098: Palma01
+    100100: SpawnPoint
+    100102: //RootNode
+    100104: Umar_Drapta
+    100106: Umar_Stanga
+    400000: Bone01
+    400002: Bone02
+    400004: Bone03
+    400006: Bone04
+    400008: Bone05
+    400010: Bone06
+    400012: Bone07
+    400014: Bone08
+    400016: Bone09
+    400018: Bone10
+    400020: Brat
+    400022: Brat01
+    400024: Bratul_de_sus
+    400026: Bratul_de_sus01
+    400028: Degetul_aratator
+    400030: Degetul_aratator01
+    400032: Degetul_aratator_04
+    400034: Degetul_aratator_05
+    400036: Degetul_aratator_2
+    400038: Degetul_aratator_3
+    400040: Degetul_inelar
+    400042: Degetul_inelar01
+    400044: Degetul_inelar_04
+    400046: Degetul_inelar_05
+    400048: Degetul_inelar_2
+    400050: Degetul_inelar_3
+    400052: Degetul_mare
+    400054: Degetul_mare01
+    400056: Degetul_mare_04
+    400058: Degetul_mare_05
+    400060: Degetul_mare_2
+    400062: Degetul_mare_3
+    400064: Degetul_mic
+    400066: Degetul_mic01
+    400068: Degetul_mic_04
+    400070: Degetul_mic_05
+    400072: Degetul_mic_2
+    400074: Degetul_mic_3
+    400076: Degetul_mijlociu
+    400078: Degetul_mijlociu01
+    400080: Degetul_mijlociu_04
+    400082: Degetul_mijlociu_05
+    400084: Degetul_mijlociu_2
+    400086: Degetul_mijlociu_3
+    400088: Gun
+    400090: Gun_bone
+    400092: IK Chain01_stanga
+    400094: IK Chain02_drapta
+    400096: Palma
+    400098: Palma01
+    400100: SpawnPoint
+    400102: //RootNode
+    400104: Umar_Drapta
+    400106: Umar_Stanga
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e636d8822acdf0841864afaef10f53b6,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
